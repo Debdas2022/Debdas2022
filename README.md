@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debdas2022
 - 👀 I’m interested in front-end web developer
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
